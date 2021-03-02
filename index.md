@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-<meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 body, html {
   height: 100%;
@@ -19,7 +18,7 @@ body, html {
 
 }
 .bgimg-1 {
-  background-image: url("solong.jpg");
+  background-image: url("/solong.jpg");
   height: 100%;
 }
 
@@ -47,8 +46,6 @@ h3 {
   color: #111;
 }
 </style>
-</head>
-<body>
 
 <div class="bgimg-1">
   <div class="caption">
