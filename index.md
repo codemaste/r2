@@ -10,7 +10,7 @@ permalink: /
       <p>Ищите меня по этим координатам если вдруг понадоблюсь.</p>
             <h3>Email</h3>
             <a href="mailto:vadim@tropnikov.com">vadim@tropnikov.com</a>
-            <br/><br/><br/>
+            <br/>
             <h3>Соцсети</h3>
       <a target="_blank" href="https://www.facebook.com/tropnikov/">Facebook</a>
       <a target="_blank" href="https://twitter.com/vadim_tropnikov">Twitter</a>
