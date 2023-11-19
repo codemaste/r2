@@ -18,9 +18,11 @@ permalink: /
 
 ### Соцсети
 
-[LinkedIn](https://www.linkedin.com/in/tropnikov)
-
 [Facebook](https://www.facebook.com/tropnikov/)
+
+[Twitter](https://twitter.com/vadim_tropnikov)
+
+[LinkedIn](https://www.linkedin.com/in/tropnikov)
 
 <br/><br/><br/><br/>
 <br/><br/><br/><br/>
