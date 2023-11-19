@@ -20,5 +20,7 @@ permalink: /
 
 [LinkedIn](https://www.linkedin.com/in/tropnikov)
 
+[Facebook](https://www.facebook.com/tropnikov/)
+
 <br/><br/><br/><br/>
 <br/><br/><br/><br/>
