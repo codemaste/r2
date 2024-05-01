@@ -34,4 +34,4 @@ permalink: /cv.html
 
 ## Основные навыки 
 
-- English, C++, PHP, Linux.
+- C++, PHP, Linux, English.
