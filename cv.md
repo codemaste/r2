@@ -4,7 +4,7 @@ title: CV
 permalink: /cv.html
 ---
 
-![Тропников Вадим](/adv5.webp)
+<img src="/adv5.webp" width="300" height="300" alt="Тропников Вадим" />
 
 Тропников Вадим Александрович, 09.09.1978, Москва
 
