@@ -6,7 +6,7 @@ permalink: /cv.html
 
 <img src="/adv5.webp" width="300" height="300" alt="Тропников Вадим" />
 
-Тропников Вадим Александрович, 09.09.1978, Москва.
+Тропников Вадим Александрович, 9.9.1978, Москва.
 
 [vadim@tropnikov.com](mailto:vadim@tropnikov.com)
 
