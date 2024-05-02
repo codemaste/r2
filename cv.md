@@ -8,7 +8,7 @@ permalink: /cv.html
 
 Тропников Вадим Александрович, 9.9.1978, Москва.
 
-[vadim@tropnikov.com](mailto:vadim@tropnikov.com) [+79890483005](tel:+79890483005)
+[vadim@tropnikov.com](mailto:vadim@tropnikov.com)
 
 Занимаюсь созданием и эксплуатацией веб-сервисов, в основном с Big Data.
 
