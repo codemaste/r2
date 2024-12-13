@@ -16,7 +16,7 @@ permalink: /
             <h3>Email</h3>
             <a href="mailto:vadim@tropnikov.com">vadim@tropnikov.com</a>
             <br/>
-            <h3>Соцсети</h3
+            <h3>Соцсети</h3>
       <a target="_blank" href="https://www.linkedin.com/in/tropnikov">Linkedin</a>
 </div>
 </body>
