@@ -18,6 +18,10 @@ permalink: /
             <br/>
             <h3>Соцсети</h3>
       <a target="_blank" href="https://www.linkedin.com/in/tropnikov">Linkedin</a>
+      <br/>
+      <a target="_blank" href="https://www.facebook.com/tropnikov">Facebook</a>
+      <br/>
+      <a target="_blank" href="https://x.com/vadim_tropnikov">Twitter</a>
 </div>
 </body>
 </html>
